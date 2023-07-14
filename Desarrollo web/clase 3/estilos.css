@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.solorojo{
+    color:red;
+    text-align: center;
+    font-size: 56px;
+}
+
+.unhola{
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.Untrio{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.soltero{
+    color: gray;
+}
+
+.unsoltero{
+    font-size: 25px
+    ;
+}
